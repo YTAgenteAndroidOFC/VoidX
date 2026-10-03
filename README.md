@@ -1,4 +1,8 @@
-<div align="center">VoidX
+<div align="center">
+
+<img src="https://i.ibb.co/RTNTz3mP/In-Shot-20260105-184553111.jpg" width="180" alt="VoidX">
+
+# VoidX
 
 Android optimization toolkit focused on a faster and cleaner system.
 

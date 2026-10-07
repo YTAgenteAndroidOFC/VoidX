@@ -18,15 +18,15 @@
   <img src="https://img.shields.io/badge/ARMv7-6C63FF?style=flat-square" alt="ARMv7">
 </p><br><a href="https://github.com/YTDvidPojavBr/VoidX/releases">
   <img src="https://img.shields.io/badge/Download%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
-</a></div>---
+</a></div>
 
-About
+# About
 
 VoidX is an Android optimization toolkit designed to keep your device cleaner, lighter and more responsive.
 
 It provides practical ADB-based tools for system maintenance and performance optimization while keeping the experience simple and lightweight.
 
-Features
+# Features
 
 - 🧹 Cache Cleanup — Remove cached data using ADB commands.
 - 🧠 Memory Management — Tools focused on system resources.
@@ -39,23 +39,15 @@ Features
 
 ---
 
-Preview
+# Preview
 
 <div align="center"><img src="https://i.ibb.co/mF5LZ4TL/Screenshot-20260107-104403.png" width="250" alt="VoidX Preview 1">   
 
 <img src="https://i.ibb.co/gLx1zTK0/Screenshot-20260107-104416.png" width="250" alt="VoidX Preview 2"></div>---
 
-Video Preview
-
-<div align="center"><a href="COLE_AQUI_O_LINK_DO_VIDEO">  <img src="https://img.shields.io/badge/▶%20Watch%20Video%20Preview-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video Preview"></a><br><br>
-
-<sub>Click to watch the VoidX video preview.</sub>
-
-</div>«Tip: GitHub README não reproduz vídeos diretamente em todos os casos. Por isso, usar uma imagem/thumbnail clicável é a opção mais compatível.»
-
 ---
 
-Features
+# Features
 
 Feature| Description
 🧹 Cache Cleanup| Remove cached data using ADB commands
@@ -67,7 +59,7 @@ Feature| Description
 
 ---
 
-Requirements
+# Requirements
 
 - Android 5.0 or newer
 - ADB access
@@ -78,7 +70,7 @@ Requirements
 
 ---
 
-Download
+# Download
 
 <div align="center"><a href="https://github.com/YTDvidPojavBr/VoidX/releases">
   <img src="https://img.shields.io/badge/Download%20Latest%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download Latest APK">
@@ -86,7 +78,7 @@ Download
 
 <img src="https://img.shields.io/github/downloads/YTDvidPojavBr/VoidX/total?style=for-the-badge&label=Total%20Downloads&color=18181B" alt="Total Downloads"></div>---
 
-Project Information
+# Project Information
 
 Property| Information
 Project| VoidX
@@ -100,21 +92,21 @@ Status| 🟢 Active
 
 ---
 
-Tech Stack
+# Tech Stack
 
 <div align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"><img src="https://img.shields.io/badge/Sketchware-1E90FF?style=for-the-badge" alt="Sketchware"><img src="https://img.shields.io/badge/ADB-6C63FF?style=for-the-badge" alt="ADB"></div>---
 
-Repository
+# Repository
 
 <div align="center"><a href="https://github.com/YTDvidPojavBr/VoidX">
   <img src="https://img.shields.io/badge/GitHub-View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
 </a></div>---
 
-Statistics
+# Statistics
 
 <div align="center"><img src="https://img.shields.io/github/stars/YTDvidPojavBr/VoidX?style=for-the-badge&label=Stars&color=7C3AED" alt="Stars"><img src="https://img.shields.io/github/forks/YTDvidPojavBr/VoidX?style=for-the-badge&label=Forks&color=6C63FF" alt="Forks"><img src="https://img.shields.io/github/downloads/YTDvidPojavBr/VoidX/total?style=for-the-badge&label=Downloads&color=18181B" alt="Downloads"></div>---
 
-Repository Views
+# Repository Views
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=YTDvidPojavBr&label=Repository%20Views&color=7C3AED&style=for-the-badge" alt="Repository Views"></div>---
 

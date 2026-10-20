@@ -17,69 +17,85 @@
   </p>
 
   <p>
-    <a href="https://github.com/YTDvidPojavBr/VoidX/releases">
+    <a href="https://github.com/YTAgenteAndroidOFC/VoidX/releases">
       <img src="https://img.shields.io/badge/Download-APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
     </a>
-    <a href="https://github.com/YTDvidPojavBr/VoidX">
+    <a href="https://github.com/YTAgenteAndroidOFC/VoidX">
       <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
     </a>
   </p>
 
-  <img src="https://img.shields.io/github/downloads/YTDvidPojavBr/VoidX/total?style=for-the-badge&label=Downloads&color=651FFF" alt="Total Downloads">
+  <img src="https://img.shields.io/github/downloads/YTAgenteAndroidOFC/VoidX/total?style=for-the-badge&label=Downloads&color=651FFF" alt="Total Downloads">
 
 </div>
 
 ---
 
-## Sobre o Projeto
+## Sobre o projeto
 
-O **VoidX** é um aplicativo Android desenvolvido para oferecer ferramentas de otimização, manutenção e gerenciamento do dispositivo por meio de comandos ADB.
+O **VoidX** é um aplicativo Android desenvolvido para reunir ferramentas de otimização, manutenção e gerenciamento do dispositivo em uma única interface.
 
-Com uma interface moderna e minimalista, o aplicativo reúne recursos para limpeza de cache, gerenciamento de memória, ajustes de desempenho e otimização para jogos.
+Com um design escuro e minimalista, o aplicativo oferece recursos para limpeza de cache, gerenciamento de memória, ajustes de desempenho, diagnóstico do dispositivo e otimização para jogos.
 
-O projeto utiliza o Shizuku para executar operações compatíveis sem exigir acesso root tradicional, dependendo das permissões e dos recursos disponíveis no sistema.
+O projeto utiliza ADB e Shizuku para disponibilizar operações compatíveis sem exigir root tradicional, dependendo das permissões concedidas e das limitações do sistema.
 
 ## Funcionalidades
 
-- **Otimizações do sistema:** acesso rápido a ajustes e comandos de manutenção.
+- **Otimizações do sistema:** acesso a ferramentas de manutenção e ajustes.
 - **Perfis de desempenho:** modos Turbo, Equilibrado e Economia.
-- **Limpeza de cache:** ferramentas para gerenciar dados temporários dos aplicativos.
-- **Gerenciamento de memória:** recursos voltados ao acompanhamento e gerenciamento de processos.
-- **Ajustes de desempenho:** opções para modificar determinados comportamentos do sistema.
-- **Otimização para jogos:** painel dedicado a configurações de jogos.
-- **Monitoramento:** visualização de informações de RAM, armazenamento e temperatura, conforme os dados disponíveis.
-- **Diagnóstico do dispositivo:** consulta de informações do Android, GPU, memória e bateria.
-- **Ferramentas ADB/Shizuku:** execução de operações compatíveis com as permissões concedidas.
-- **Gerenciamento de arquivos:** seção dedicada ao acesso e gerenciamento de arquivos.
-- **Configurações de aparência:** personalização das cores e do tema do aplicativo.
-- **Interface Material:** design escuro, minimalista e adaptado para dispositivos Android.
+- **Limpeza de cache:** gerenciamento de dados temporários.
+- **Gerenciamento de memória:** ferramentas relacionadas à RAM e aos processos.
+- **Otimização para jogos:** opções voltadas à experiência durante os jogos.
+- **Monitoramento:** informações de RAM, armazenamento e temperatura, conforme a disponibilidade.
+- **Diagnóstico:** consulta de informações do Android, GPU, memória e bateria.
+- **ADB e Shizuku:** execução de operações compatíveis com as permissões disponíveis.
+- **Ferramentas:** acesso a recursos adicionais de gerenciamento do dispositivo.
+- **Personalização:** temas e diferentes estilos visuais para o monitor de FPS.
+- **Interface Material:** visual escuro, moderno e minimalista.
 
-> Os resultados das otimizações variam conforme o dispositivo, a versão do Android, as permissões concedidas e os recursos utilizados.
+> Os resultados variam conforme o dispositivo, a versão do Android, as permissões e os recursos utilizados.
 
 ## Preview
 
-Adicione abaixo as capturas de tela das principais áreas do VoidX.
+### Interface do aplicativo
 
-### Tela inicial
+<div align="center">
 
-<!-- Adicione aqui a imagem da tela inicial -->
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Tela_Inicial.png" width="31%" alt="VoidX - Tela inicial">
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Painel.png" width="31%" alt="VoidX - Painel">
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Otimiza%C3%A7%C3%B5es.png" width="31%" alt="VoidX - Otimizações">
 
-### Otimizações
+  <br>
 
-<!-- Adicione aqui a imagem da tela de otimizações -->
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Ferramentas.png" width="31%" alt="VoidX - Ferramentas">
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Configura%C3%A7%C3%B5es.png" width="31%" alt="VoidX - Configurações">
 
-### Ferramentas e diagnóstico
+</div>
 
-<!-- Adicione aqui a imagem da tela de ferramentas -->
+### Skins do monitor de FPS
 
-### Painel de jogos
+Personalize a aparência do monitor de FPS com diferentes estilos visuais.
 
-<!-- Adicione aqui a imagem do painel de jogos -->
+<div align="center">
 
-### Configurações
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>One UI</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/OneUi.jpg" width="100%" alt="Skin One UI">
+      </td>
+      <td align="center" width="33%">
+        <strong>GameTime</strong><br><br>
+        <img src="https://github.com/YTAgenteAndroidOFC/VoidX/blob/main/ScreenShorts/GameTime.jpg" width="100%" alt="Painel VoidX - referência visual para GameTime">
+      </td>
+      <td align="center" width="33%">
+        <strong>MSI</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Msi.jpg" width="100%" alt="Skin MSI">
+      </td>
+    </tr>
+  </table>
 
-<!-- Adicione aqui a imagem das configurações -->
-
+</div>
 
 ## Tecnologias
 
@@ -93,55 +109,56 @@ Adicione abaixo as capturas de tela das principais áreas do VoidX.
 
 </div>
 
-## Informações do Projeto
+## Informações do projeto
 
 | Informação | Detalhes |
 |---|---|
-| **Nome** | VoidX |
-| **Plataforma** | Android |
-| **Linguagem** | Java |
-| **Desenvolvimento** | Sketchware |
-| **Package** | `com.xiaomiperf` |
-| **Android mínimo** | Android 5.0 (API 21) |
-| **Arquiteturas** | ARM64 / ARMv7 |
-| **Integração** | ADB / Shizuku |
-| **Status** | Em desenvolvimento |
+| Nome | VoidX |
+| Plataforma | Android |
+| Linguagem | Java |
+| Desenvolvimento | Sketchware |
+| Package | `com.xiaomiperf` |
+| Android mínimo | Android 5.0 (API 21) |
+| Arquiteturas | ARM64 / ARMv7 |
+| Integração | ADB / Shizuku |
+| Status | Em desenvolvimento |
 
 ## Requisitos
 
 - Dispositivo com Android 5.0 ou superior.
-- Aplicativo Shizuku instalado e iniciado para os recursos que dependem dele.
-- Permissões necessárias concedidas ao VoidX.
+- Shizuku instalado e iniciado para os recursos que dependem dele.
+- Permissões necessárias concedidas ao aplicativo.
 - Compatibilidade com os comandos e ajustes utilizados por cada função.
 
-Alguns recursos podem exigir versões específicas do Android ou não funcionar em todos os dispositivos.
+Alguns recursos podem exigir versões específicas do Android e podem não funcionar em todos os dispositivos.
 
 ## Download
 
-Baixe a versão disponível do VoidX pela página oficial de releases do GitHub.
+Baixe a versão disponível diretamente pela página oficial de releases.
 
 <div align="center">
 
-  <a href="https://github.com/YTDvidPojavBr/VoidX/releases">
+  <a href="https://github.com/YTAgenteAndroidOFC/VoidX/releases">
     <img src="https://img.shields.io/badge/BAIXAR%20VOIDX-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Baixar VoidX">
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/github/downloads/YTDvidPojavBr/VoidX/total?style=for-the-badge&label=Total%20de%20downloads&color=18181B" alt="Total de downloads">
+  <img src="https://img.shields.io/github/downloads/YTAgenteAndroidOFC/VoidX/total?style=for-the-badge&label=Total%20de%20downloads&color=18181B" alt="Total de downloads">
 
 </div>
 
 ## Repositório e colaboração
 
-- **Repositório oficial:** [YTDvidPojavBr/VoidX](https://github.com/YTDvidPojavBr/VoidX)
-- **Downloads:** [GitHub Releases](https://github.com/YTDvidPojavBr/VoidX/releases)
+- **Repositório:** [YTAgenteAndroidOFC/VoidX](https://github.com/YTAgenteAndroidOFC/VoidX)
+- **Downloads:** [GitHub Releases](https://github.com/YTAgenteAndroidOFC/VoidX/releases)
+- **Problemas e sugestões:** [Issues](https://github.com/YTAgenteAndroidOFC/VoidX/issues)
 
-Contribuições, sugestões e relatos de problemas são bem-vindos por meio das issues do repositório.
+Contribuições, sugestões e relatos de problemas são bem-vindos.
 
-## Status do Projeto
+## Status do projeto
 
-O VoidX continua em desenvolvimento, com foco na melhoria das ferramentas de otimização, na compatibilidade com diferentes dispositivos Android e na experiência de uso.
+O VoidX continua em desenvolvimento, com foco na evolução das ferramentas, na compatibilidade com diferentes dispositivos Android e na experiência de uso.
 
 <div align="center">
 
@@ -152,3 +169,5 @@ O VoidX continua em desenvolvimento, com foco na melhoria das ferramentas de oti
   **VoidX**
 
   *Optimize. Clean. Perform.*
+
+</div>

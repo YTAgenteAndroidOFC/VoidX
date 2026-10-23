@@ -63,8 +63,7 @@ O projeto utiliza ADB e Shizuku para disponibilizar operações compatíveis sem
 
   <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Tela_Inicial.png" width="31%" alt="VoidX - Tela inicial">
   <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Painel.png" width="31%" alt="VoidX - Painel">
-  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Otimiza%C3%A7%C3%B5es.png" width="31%" alt="VoidX - Otimizações">
-
+  <img src="https://github.com/YTAgenteAndroidOFC/VoidX/blob/main/ScreenShorts/Screenshot_20261023-151220.png" width="31%" alt="VoidX - Otimizações">
   <br>
 
   <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/VoidX/main/ScreenShorts/Ferramentas.png" width="31%" alt="VoidX - Ferramentas">
